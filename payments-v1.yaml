@@ -1,4 +1,4 @@
-swagger: '2.0'
+swagger: "2.0"
 info:
   description: |-
     To facilitate the capability for consumers to make a payment or refund to service providers.
